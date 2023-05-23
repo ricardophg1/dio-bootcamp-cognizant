@@ -1,2 +1,2 @@
-# dio-bootcamp-cognizant
-Desenvolvimento Data Engenieer Bootcamp Cognizant/Dio
+# Repositório de desenvolvimento Data Engenieer
+Desafio Bootcamp Cognizant/Dio.
